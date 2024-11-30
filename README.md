@@ -1,4 +1,4 @@
-˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ | ### About me | ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
+### ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ | About me | ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
 
 ---
 
@@ -18,7 +18,7 @@
 
 **💌 If you want to contact me, please click links below.**
 
-[Facebook](https://www.facebook.com/)  |  [Instagram](https://www.instagram.com/)
+[Facebook](https://www.facebook.com/)  |  [Instagram](https://www.instagram.com/) | [Discord](https://discord.gg/XaAdB57E)
 
 **My work**
 
