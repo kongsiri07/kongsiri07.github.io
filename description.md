@@ -14,7 +14,7 @@ Gemini : สภาพแวดล้อมการทดสอบแบบแ�
 
 [NIST](https://csrc.nist.gov/glossary)
 
-: Demo is a sandbox-style environment in which users may test their algorithm implementations and ACVP client applications.
+Demo is a sandbox-style environment in which users may test their algorithm implementations and ACVP client applications.
 
 Chat GPT : เดโมเป็นสภาพแวดล้อมแบบ sandbox ที่ผู้ใช้สามารถทดสอบการนำอัลกอริธึมและแอปพลิเคชันที่ติดต่อสื่อสารกับ AVCP
 
