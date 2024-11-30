@@ -3,4 +3,4 @@
 
 
 
-[Ter](https://github.com/Ter130147/Ter130147.github.io)
+[Ter](https://Ter130147.github.io)
