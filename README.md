@@ -25,3 +25,5 @@
 **My friend**
 
 [Ter](https://Ter130147.github.io)
+
+![gif](./githubpic/kyubey.gif)
