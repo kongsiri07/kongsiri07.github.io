@@ -16,7 +16,7 @@
 
 **If you want to contact me, please click links.**
 
-[Facebook](https://www.facebook.com/)    [Instagram](https://www.instagram.com/)
+[Facebook](https://www.facebook.com/)  |  [Instagram](https://www.instagram.com/)
 
 **My work**
 
