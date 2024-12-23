@@ -2,4 +2,4 @@
 
 ---
 
-![ecard](githubpic/Christmas_card.png)
+![ecard](githubpic/xmascard.png)
