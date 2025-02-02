@@ -1,4 +1,4 @@
-## **｡*ﾟ✲*☆(๑òᆺó๑)｡*ﾟ✲*☆ Security Control ⋆͛*͛ ͙͛ ⁑͛⋆͛*͛ ͙͛ ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚⋆͛*͛ ͙͛ ⁑͛⋆͛*͛ ͙͛**
+## ｡*ﾟ✲*☆(๑òᆺó๑)｡*ﾟ✲*☆ **Security Control** ⋆͛*͛ ͙͛ ⁑͛⋆͛*͛ ͙͛ ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚⋆͛*͛ ͙͛ ⁑͛⋆͛*͛ ͙͛
 
 > Example of Security Controls in Daily Life
 
