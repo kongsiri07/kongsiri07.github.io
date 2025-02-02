@@ -1,13 +1,13 @@
-## **Security Control**
+## **Security Control ⋆͛*͛ ͙͛ ⁑͛⋆͛*͛ ͙͛ ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚⋆͛*͛ ͙͛ ⁑͛⋆͛*͛ ͙͛**
 
 > Example of Security Controls in Daily Life
 
 ---
 
-### Payment on App store
-#### ชำระเงินผ่าน App store ในระบบ ios ของ Iphone
+### Payment on App store ☏
+#### ชำระเงินผ่าน App store ในระบบ ios ของ Iphone 💰💵
 
-- Loction : My telephone (Iphone 14)
+- Loction : My telephone (Iphone 14) ꒰ღ˘‿˘ற꒱❤⃛
 
 ---
 
@@ -21,6 +21,8 @@
 
 ---
 
+જ⁀➴ ♡
+
 **Detail** : แบบแรกจะเป็นการยืนยันตัวตนผ่านการแสกนใบหน้า แต่หากเกิดข้อผิดพลาด จะต้องทำการใส่รหัสผ่านของอีเมลเพื่อเป็นการยืนยันตัวตนแทน
 
 **Control function** : Preventative
@@ -33,6 +35,6 @@
 
 ผู้จัดทำ นางสาว คงสิริ ปานชื่น 6530200045
 
-[Home page](README.md)
+⋆｡‧˚ʚ🧸ɞ˚‧｡⋆  [Home page](README.md)
 
 ---
