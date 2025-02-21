@@ -21,6 +21,9 @@ Description :
 ### ⋆˚✿˖° My friend :
 - [Watcharaphon]()
 
+### ⋆˚✿˖° Home :
+- [My profile](README.md)
+
                             ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
