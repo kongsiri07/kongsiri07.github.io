@@ -24,9 +24,4 @@ Description :
 ### ⋆˚✿˖° Home :
 - [My profile](README.md)
 
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
-
 ---
